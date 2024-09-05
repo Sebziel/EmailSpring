@@ -1,0 +1,1 @@
+This project is creted for purposes of building and deployment workshop in https://github.com/Sebziel/TF-AWS-Ansible-Jenkins repository.
